@@ -2,7 +2,8 @@
 
 ## Description
 App made with Meteor tutorial using React framework and MongoDB.
-You can:
+
+Things you can do:
 - Sign up and login
 - Register any type of task
 - Check or uncheck if task is done
